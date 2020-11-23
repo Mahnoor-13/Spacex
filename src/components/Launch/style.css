@@ -1,0 +1,14 @@
+.launches {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.LaunchesOL {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  align-items: center;
+  border: 1px solid gray;
+}
